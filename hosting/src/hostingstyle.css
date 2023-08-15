@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   color: black;
-  font-family: "Times New Romas";
+  font-family: "Times New Roman";
 }
 
 img {
@@ -9,4 +9,10 @@ img {
   width: 90%;
   margin: 20px auto;
   border-radius: 20px;
+}
+
+.contact-button {
+  display: block;
+  margin: 0 auto;
+  width: 110px;
 }
